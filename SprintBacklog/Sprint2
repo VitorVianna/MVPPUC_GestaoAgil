@@ -1,0 +1,14 @@
+Aqui ficarão os detalhes da Sprint 2
+
+1 - Estrutura/Arquitetura/ (ENABLERS)
+    Criação de pasta FTP para carregamento dos Atestados Médicos (Prioridade 3)
+
+3 - Cadastros/Cadastro de Torcedores
+	Front-Tela de Cadastro de Torcedores (Prioridade 2)
+	API - Disponibilizar rota com informações básicas do Evento (Prioridade 2)
+	API - Disponibilizar rota para carregamento de informações do colaborador (Prioridade 2)
+	API - Disponibilizar rota para cadastro do Torcedor (Prioridade 2)
+
+5 - Cadastro de Atletas Individuais
+	Front - Tela para cadastro de Equipes (Prioridade 3)
+	API - Disponibilizar rotas CRUD para Equipes (Prioridade 3)

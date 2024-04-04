@@ -1,0 +1,37 @@
+Aqui ficarão os Users Stories e Enablers
+
+1 - Estrutura/Arquitetura/ (ENABLERS)
+	Criação do projeto .Net (DDD, Testes Automatizados) (Prioridade 0)
+	Criação do projeto FrontEnd (Angular) (Prioridade 0)
+	Criação das tabelas e seus relacionamentos (SQL Server) (Prioridade 0)
+	Criação de pasta FTP para carregamento dos Atestados Médicos (Prioridade 3)
+	Implementação do Sonar (Prioridade 6)
+	Implementação do Hotjar (Prioridade 6)
+	Esteira CI/CD (Azure DevOps) (Prioridade 7)
+2 - Admin/Funcionalidades Admin/ 
+	Front - Tela de Administrador - Categorias (Prioridade 1)
+	Front - Tela de Administrador - Informações do Evento (Prioridade 1)
+	Front - Tela de Administrador - Cadastro de Administradores (Prioridade 5)
+	Front - Tela de Administrador - Relatórios - Torcedores (Prioridade 5)
+	Front - Tela de Administrador - Relatórios - Equipes (Prioridade 5)
+	Front - Tela de Administrador - Relatórios - Atletas Individuais (Prioridade 5)
+	Front - Tela de Administrador - Tela de Aprovações (Prioridade 5)
+	API - Disponibilizar rotas CRUD para Categorias (Prioridade 1)
+	API - Disponibilizar rotas CRUD para Informações do Evento (Prioridade 1)
+	API - Disponibilizar rotas CRUD para cadastro de Administradores (Prioridade 5)
+	API - Rota Relatórios - Torcedores (Prioridade 5)
+	API - Rota Relatórios - Equipes (Prioridade 5)
+	API - Rota Relatórios - Atletas Individuais (Prioridade 5)
+	API - ROTA CRUD para aprovações (Prioridade 5)
+3 - Cadastros/Cadastro de Torcedores
+	Front-Tela Inicial com informações básicas do Evento (Prioridade 1)
+	Front-Tela de Cadastro de Torcedores (Prioridade 2)
+	API - Disponibilizar rota com informações básicas do Evento (Prioridade 2)
+	API - Disponibilizar rota para carregamento de informações do colaborador (Prioridade 2)
+	API - Disponibilizar rota para cadastro do Torcedor (Prioridade 2)
+4 - Cadastros/Cadastro de Equipes
+	Front - Tela para cadastro de Equipes (Prioridade 4)
+	API - Disponibilizar rotas CRUD para Equipes (Prioridade 4)
+5 - Cadastro de Atletas Individuais
+	Front - Tela para cadastro de Equipes (Prioridade 3)
+	API - Disponibilizar rotas CRUD para Equipes (Prioridade 3)

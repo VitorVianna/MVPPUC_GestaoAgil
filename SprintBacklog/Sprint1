@@ -1,0 +1,15 @@
+Aqui ficarão os detalhes da Sprint 1:
+
+1 - Estrutura/Arquitetura/ (ENABLERS)
+	Criação do projeto .Net (DDD, Testes Automatizados) (Prioridade 0)
+	Criação do projeto FrontEnd (Angular) (Prioridade 0)
+	Criação das tabelas e seus relacionamentos (SQL Server) (Prioridade 0)
+
+2 - Admin/Funcionalidades Admin/ 
+	Front - Tela de Administrador - Categorias (Prioridade 1)
+	Front - Tela de Administrador - Informações do Evento (Prioridade 1)
+    API - Disponibilizar rotas CRUD para Categorias (Prioridade 1)
+	API - Disponibilizar rotas CRUD para Informações do Evento (Prioridade 1)
+
+3 - Cadastros/Cadastro de Torcedores
+	Front-Tela Inicial com informações básicas do Evento (Prioridade 1)
