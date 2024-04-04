@@ -36,7 +36,7 @@ O nosso produto utiliza ferramentas atualizadas, seguras, fáceis de utilizar e 
 	Implementação do Sonar (Prioridade 6)
 	Implementação do Hotjar (Prioridade 6)
 	Esteira CI/CD (Azure DevOps) (Prioridade 7)
-2 - Admin/Funcionalidade Admin/ 
+2 - Admin/Funcionalidades Admin/ 
 	Front - Tela de Administrador - Categorias (Prioridade 1)
 	Front - Tela de Administrador - Informações do Evento (Prioridade 1)
 	Front - Tela de Administrador - Cadastro de Administradores (Prioridade 5)
