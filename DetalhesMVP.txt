@@ -1,0 +1,68 @@
+MVP - PUC - Disciplina: Sprint: Gestão Ágil de Projetos e Produtos
+
+O Produto - Será idealizado e planejado a criação de um sistema WEB para o gerenciamento de consultas em uma clínica.
+Stakeholders: Os interessados no projeto são: Os médicos responsáveis pela clínica, Os funcionários da clínica, a equipe de desenvolvimento,
+			e os clientes da clínica.
+Usuário: Os funcionários da clínica, com cargo de Atendentes.
+Clientes: Médicos responsáveis pela clínica.
+
+Time Scrum do projeto: Desenvolvedores FullStacks/DBA: 2, Scrum Master: 1, PO: 1.
+
+Visão do Produto:
+Qual é o produto que se pretende desenvolver? 
+- Sistema de gerenciamento de consultas para clínicas médicas.
+Público-alvo:
+- Clínicas médicas, médicos particulares com consultórios próprios.
+Por que os clientes devem comprar este sistema?
+- Pois o sistema visa facilitar a organização de consultas para a clínica.
+
+
+Template:
+Para clínicas médicas
+Que necessitam gerenciar suas consultas e clientes
+O Health Manager
+É um sistema de cadastros
+Que facilita o gerenciamento da clínica.
+Diferentemente dos sistemas atuais
+O nosso produto utiliza ferramentas atualizadas, seguras, fáceis de utilizar e com interface visando uma melhor experiência de usuários.
+
+
+Épicos/Features/US-Enablers
+1 - Estrutura/Arquitetura/ (ENABLERS)
+	Criação do projeto .Net (DDD, Testes Automatizados) (Prioridade 0)
+	Criação do projeto FrontEnd (Angular) (Prioridade 0)
+	Criação das tabelas e seus relacionamentos (SQL Server) (Prioridade 0)
+	Criação de pasta FTP para carregamento dos Atestados Médicos (Prioridade 3)
+	Implementação do Sonar (Prioridade 6)
+	Implementação do Hotjar (Prioridade 6)
+	Esteira CI/CD (Azure DevOps) (Prioridade 7)
+2 - Admin/Funcionalidade Admin/ 
+	Front - Tela de Administrador - Categorias (Prioridade 1)
+	Front - Tela de Administrador - Informações do Evento (Prioridade 1)
+	Front - Tela de Administrador - Cadastro de Administradores (Prioridade 5)
+	Front - Tela de Administrador - Relatórios - Torcedores (Prioridade 5)
+	Front - Tela de Administrador - Relatórios - Equipes (Prioridade 5)
+	Front - Tela de Administrador - Relatórios - Atletas Individuais (Prioridade 5)
+	Front - Tela de Administrador - Tela de Aprovações (Prioridade 5)
+	API - Disponibilizar rotas CRUD para Categorias (Prioridade 1)
+	API - Disponibilizar rotas CRUD para Informações do Evento (Prioridade 1)
+	API - Disponibilizar rotas CRUD para cadastro de Administradores (Prioridade 5)
+	API - Rota Relatórios - Torcedores (Prioridade 5)
+	API - Rota Relatórios - Equipes (Prioridade 5)
+	API - Rota Relatórios - Atletas Individuais (Prioridade 5)
+	API - ROTA CRUD para aprovações (Prioridade 5)
+3 - Cadastros/Cadastro de Torcedores
+	Front-Tela Inicial com informações básicas do Evento (Prioridade 1)
+	Front-Tela de Cadastro de Torcedores (Prioridade 2)
+	API - Disponibilizar rota com informações básicas do Evento (Prioridade 2)
+	API - Disponibilizar rota para carregamento de informações do colaborador (Prioridade 2)
+	API - Disponibilizar rota para cadastro do Torcedor (Prioridade 2)
+4 - Cadastros/Cadastro de Equipes
+	Front - Tela para cadastro de Equipes (Prioridade 4)
+	API - Disponibilizar rotas CRUD para Equipes (Prioridade 4)
+5 - Cadastro de Atletas Individuais
+	Front - Tela para cadastro de Equipes (Prioridade 3)
+	API - Disponibilizar rotas CRUD para Equipes (Prioridade 3)
+
+
+
