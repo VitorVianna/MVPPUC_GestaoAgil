@@ -8,3 +8,6 @@ Além disso, há um arquivo com os detalhes do projeto.
 
 O projeto foi organizado para trabalhar com 2 ondas, a primeira visando o Cadastro e Relatórios, e a segunda visando a edição dos cadastros. 
 Projeto estimado para iniciar em 29 de Abril, e terminado em Agosto.
+
+Link para o vídeo de apresentação:
+https://photos.app.goo.gl/ELE6UU525PVjRXwt5
